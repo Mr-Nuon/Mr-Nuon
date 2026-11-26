@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Mr-Nuon+%F0%9F%91%8B;FiveM+Developer+%F0%9F%8E%AE;ESX+%C2%B7+vRP+%C2%B7+QBCore;Building+Ultimate+Server+%E2%9A%A1" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Mr-Nuon+%F0%9F%91%8B;FiveM+Developer+%F0%9F%8E%AE;ESX+%C2%B7+vRP+%C2%B7+QBCore;We+Build+Creativity+%E2%9A%A1" alt="Typing intro"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Mr-Nuon&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views"/>
